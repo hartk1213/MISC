@@ -1,9 +1,20 @@
 
 # Afterburner Toolhead Board #
-![PCB](Images/1.png)
 
 
-### NOTE: THERE ARE A FEW DIFFERENT VERSIONS OF THIS BOARD GOING AROUND, THE WIRING DIAGRAM IS FOR THE MOST CURRENT VERSION AS POSTED HERE. IF YOU BOUGHT FROM ME OR ANYONE ELSE ON THE FLEA MARKET AND HAVE ANY QUESTIONS DM ME ON DISCORD
+
+
+### NOTE: THERE ARE A FEW DIFFERENT VERSIONS OF THIS BOARD GOING AROUND, 3.0 and 3.1, BOTH WIRING DIAGRAMS WILL BE UPLOADED HERE SHORTLY 
+
+## This is 3.1 -
+![PCB](Images/Rev3.1/1.png)
+ [Here](Images/Rev3.1/wiringDiagram.png) is the wiring diagram
+
+
+
+## This is 3.0
+![PCB](Images/Rev3.0/1.png)
+ [Here](Images/Rev3.0/wiringDiagram.png) is the wiring diagram
 
 ## The board has: ##
  - BAT85 Diode for abl probe

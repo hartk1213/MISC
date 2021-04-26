@@ -8,12 +8,14 @@
 
 ## This is 3.1 -
 ![PCB](Images/Rev3.1/1.png)
+
  [Here](Images/Rev3.1/wiringDiagram.png) is the wiring diagram
 
 
 
 ## This is 3.0
 ![PCB](Images/Rev3.0/1.png)
+
  [Here](Images/Rev3.0/wiringDiagram.png) is the wiring diagram
 
 ## The board has: ##
@@ -23,6 +25,7 @@
  - 2 Pin Microfit 3.0 for the heater
  - 0402 pkg thermistor to be used as a chamber temperature 
  - 14 Pin Microfit 3.0 for the main connector back to the MCU 
+ - I used 18awg for 24v, GND, and HE0 and 24awg for everything else 
   
 This board was designed to make wiring the toolhead a bit easier, to help get rid of some of the crimps needs on these wires. 
 
@@ -30,4 +33,6 @@ This board was designed to make wiring the toolhead a bit easier, to help get ri
 Since this board has provisions for the X endstop, this should be compatible with V1, V2, and Switchwire
 
 
+### Here is how the board and PCB spacer get installed using 2 M3x8 SHCS
+![Mounting](Images/Installation.png)
 

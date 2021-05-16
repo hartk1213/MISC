@@ -1,1 +1,3 @@
-I totally did this shit
+# Magprobe Pigtail
+
+![bottom hinge parts](images/magprobe_render.png)

@@ -6,7 +6,7 @@
 
 ### NOTE: THERE ARE A FEW DIFFERENT VERSIONS OF THIS BOARD GOING AROUND MAKE SURE YOU FIND THE CORRECT WIRING DIAGRAM FOR YOUR VERSION, IF YOU DONT KNOW WHAT VERSION YOU CURRENTLY HAVE FEEL FREE TO ASK ME ON DISCORD
 
-## This is 3.2 and ERCF version have the same wiring for the 14pin , the additional 2 pin for the ERCF is labels 5v and FS (filament sensor)
+## This is 3.2 (Newest version)
 ![PCB](Images/Rev3.2/1.png)
 
  [Here](Images/Rev3.2/wiringDiagram.png) is the wiring diagram
@@ -28,7 +28,7 @@ This board was designed to make wiring the toolhead a bit easier, to help get ri
 Since this board has provisions for the X endstop, this should be compatible with V1, V2, and Switchwire
 
 ### chamber thermistor config settings for SKR1.4 connected to TH1
- ## Config for 3.2-3.Rabbit
+ ## Config for 3.2
     #######################################
     #### Enclosure Temp Sensor Section ####
     #######################################
@@ -58,9 +58,7 @@ Since this board has provisions for the X endstop, this should be compatible wit
     gcode_id: C
 
 
-### Changes for the ERCF version
- there are now solder jumpers on the back to select 24v or 5v for fans and probes. the fan and probe jumpers are defaulted to 24v if you want a different voltage you will need to cut the trace and solder the other side
- 
+
 
 ### Here is how the board and PCB spacer get installed using 2 M3x8 SHCS
 ![Mounting](Images/Installation.png)

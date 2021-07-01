@@ -2,7 +2,9 @@
 ![1](Images/9.png) 
 
 This an alternative way to do the Z endstop pin in a V2, instead of using a deflanged GT2 20T pulley, it uses 2  5x7x8 sleeve copper bearings/bushing 
-this is pretty simple to assemble. The reason behind this is to help keep the pin from falling out. 
+this is pretty simple to assemble. The reason behind this is to help keep the pin from falling out.
+
+
 
 ##
 
@@ -27,7 +29,7 @@ First just insert two of the sleeve bearings into the top, they should bottom ou
 
 ![1](Images/3.png) 
 
-Next insert the female side of a 5mmx20mm chicago screw (sex bolt, binding barrel) and screw in the M4x6 or M4x8 SHCS
+Next insert the female side of a 5mmx20mm chicago screw (sex bolt, binding barrel) and screw in the M4x6 or M4x8 SHCS with some loctite to make sure it doenst move over time
 
 ![1](Images/4.png) 
 
@@ -42,4 +44,8 @@ Next insert the Z endstop PCB and secure it with 4 m2x10 self tapping screws
 Next just secure it to your V2 like you would the stock Z endstop
 
 ![1](Images/8.png) 
+
+
+
+### This mod was based on the work done by Voron Discord User L.e.o.p.a.r.d for the [Micron](https://github.com/hartk1213/Micron) 3d printer. 
 

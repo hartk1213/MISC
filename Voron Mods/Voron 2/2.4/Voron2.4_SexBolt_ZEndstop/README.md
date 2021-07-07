@@ -18,6 +18,8 @@ M2x8 Self Tapping|4|[Amazon - M2x8 SHCS Self Tapping](https://www.amazon.com/dp/
 5x7x8 Sleeve Bearing|2|[Amazon - Sleeve Bearing](https://www.amazon.com/dp/B07JLVRYKT/ref=cm_sw_r_cp_apa_glt_fabc_SRMPXN8QGTP20751SVQA?_encoding=UTF8&psc=1)
 Z endstop PCB | 1 | [Formosissima - Z endstop PCB](https://formosissima.com/products/z-endstop-pcb-for-voron-v2-4)
 
+
+Full kit can be purchased [here](https://formosissima.com/products/voron-2-4-sexbolt-kit) 
 ##
 
 ![1](Images/1.png) 

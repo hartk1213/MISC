@@ -10,6 +10,22 @@
 ![PCB](Images/Rev3.2/1.png)
 
  [Here](Images/Rev3.2/wiringDiagram.png) is the wiring diagram
+ 
+    Pinout 
+    24V  - PSU +V 
+    GND  - PSU -V (NOT MAINS GND)
+    ABL  - Probe Signal Pin
+    HE0  - Hotend Heater -V
+    CT   - Chamber Thermistor Signal Pin (TH1)
+    PCF  - Part Cooling Fan -V
+    HEF  - Hotend Cooling Fan -v
+    AGND - Hotend Thermistor -V
+    TH0  - Hotend Thermistor Signal Pin (TH0)
+    XES  - X Endstop Signal Pin 
+    S1A  - Red Stepper Wire
+    S2A  - Green Stepper Wire
+    S1B  - Blue Stepper Wire
+    S2B  - Black Stepper Wire 
 
 
 ## The board has: ##

@@ -18,7 +18,7 @@
     HE0  - Hotend Heater -V
     CT   - Chamber Thermistor Signal Pin (TH1)
     PCF  - Part Cooling Fan -V
-    HEF  - Hotend Cooling Fan -v
+    HEF  - Hotend Cooling Fan -V
     AGND - Hotend Thermistor -V
     TH0  - Hotend Thermistor Signal Pin (TH0)
     XES  - X Endstop Signal Pin 

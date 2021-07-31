@@ -29,5 +29,5 @@ to use the umbilical you will need the following
 
 2x m3x8 screws 
 
-1x m3x50 SHCS
+
 

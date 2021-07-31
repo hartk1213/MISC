@@ -19,7 +19,7 @@ you might need to bend the pins a little bit to get them to fit around the curve
 
 There is also an umbilical toolhead mount for this if you wanted to get rid of the cable chains on the X and Y , this is for the MGN12 mod, but im sure it could be adapted to work with stock mgn9
 
-![Umbilical mount](Images/5.png)
+
 
 to use the umbilical you will need the following 
 

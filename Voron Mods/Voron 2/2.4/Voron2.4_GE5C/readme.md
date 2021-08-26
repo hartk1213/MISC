@@ -29,7 +29,9 @@ Now if you are using the "No Endstops" version you need 4 m3x16 screws per z joi
 
 ![1](Images/5.png) 
 
-Use an M5x20 BHCS and 1 m5x1mm washer and screw it into the gantry 
+![1](Images/7.png)
+Use an M5x20 BHCS and 1 m5x1mm washer and screw it into the gantry using a roll in tnut
+
 
 ![1](Images/6.png) 
 

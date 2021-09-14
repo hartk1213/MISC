@@ -3,6 +3,8 @@
 
 ### 4.0 IS NOT COMPATIBLE WITH SPIDER/OCTOPUS IF YOU USE DIFFERENT FAN VOLTAGES. IF YOU WANT TO USE A DIFFERENT VOLTAGE FAN, THE ERCF IS THE BOARD YOU WOULD WANT TO USE.
 
+### If you are using 3.2 or older please use some sort of m3 plastic washer when mounting the PCB 
+
 ## NEWEST VERSION 4.0 
 ![PCB](Images/Rev4.0/1.png)
 #### note: the bat85 diode has been rotated 180 deg for v4 , so double check that it is in the correct orientaion on your board 

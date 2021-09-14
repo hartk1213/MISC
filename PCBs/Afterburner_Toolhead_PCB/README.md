@@ -1,22 +1,20 @@
 
 # Afterburner Toolhead Board #
 
+### 4.0 IS NOT COMPATIBLE WITH SPIDER/OCTOPUS IF YOU USE DIFFERENT FAN VOLTAGES. IF YOU WANT TO USE A DIFFERENT VOLTAGE FAN, THE ERCF IS THE BOARD YOU WOULD WANT TO USE.
 
+### If you are using 3.2 or older please use some sort of m3 plastic washer when mounting the PCB 
 
-
-### NOTE: THERE ARE A FEW DIFFERENT VERSIONS OF THIS BOARD GOING AROUND MAKE SURE YOU FIND THE CORRECT WIRING DIAGRAM FOR YOUR VERSION, IF YOU DONT KNOW WHAT VERSION YOU CURRENTLY HAVE FEEL FREE TO ASK ME ON DISCORD
-
-### 3.2 IS NOT COMPATIBLE WITH SPIDER/OCTOPUS IF YOU USE DIFFERENT FAN VOLTAGES. IF YOU WANT TO USE A DIFFERENT VOLTAGE FAN, THE ERCF IS THE BOARD YOU WOULD WANT TO USE.
-
-## This is 3.2 and ERCF version have the same wiring for the 14pin , the additional 2 pin for the ERCF is labels 5v and FS (filament sensor)
-![PCB](Images/Rev3.2/1.png)
+## NEWEST VERSION 4.0 
+![PCB](Images/Rev4.0/1.png)
+#### note: the bat85 diode has been rotated 180 deg for v4 , so double check that it is in the correct orientaion on your board 
 
  [Here](Images/Rev3.2/wiringDiagram.png) is the wiring diagram
  
     Pinout 
     24V  - PSU +V 
     GND  - PSU -V (NOT MAINS GND)
-    ABL  - Probe Signal Pin
+    PROBE/ABL  - Probe Signal Pin
     HE0  - Hotend Heater -V
     CT   - Chamber Thermistor Signal Pin (TH1)
     PCF  - Part Cooling Fan -V
@@ -46,7 +44,7 @@ This board was designed to make wiring the toolhead a bit easier, to help get ri
 Since this board has provisions for the X endstop, this should be compatible with V1, V2, and Switchwire
 
 ### chamber thermistor config settings for SKR1.4 connected to TH1
- ## Config for 3.2-3.Rabbit
+ ## Config for 3.2,4.0,ERCF
     #######################################
     #### Enclosure Temp Sensor Section ####
     #######################################

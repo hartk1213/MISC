@@ -5,7 +5,7 @@
 
 ### If you are using 3.2 or older please use some sort of m3 plastic washer when mounting the PCB 
 
-## NEWEST VERSION 4.10 
+## NEWEST VERSION 4.1b
 ![PCB](Images/Rev4.1/1.png)
 #### note: the bat85 diode has been rotated 180 deg for v4 , so double check that it is in the correct orientaion on your board 
 

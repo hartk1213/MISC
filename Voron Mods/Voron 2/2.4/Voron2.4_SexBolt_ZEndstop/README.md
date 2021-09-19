@@ -9,9 +9,10 @@ this is pretty simple to assemble. The reason behind this is to help keep the pi
 ##
 
 ### BOM
-Screws			
-Size|Qty| Link
----|---|---			
+Screws	
+
+Size|Qty| Link|
+---|---|---|	
 M4x8 SHCS|1|[Bolt Depot - M4x8 SHCS](https://www.boltdepot.com/Product-Details.aspx?product=6505)		
 5mmx20mm Binding Screw|1|[Amazon - Binding Screw](https://www.amazon.com/dp/B07SNQXKKC/ref=cm_sw_r_cp_apa_glt_fabc_PQ6VRNP7R9MHFDZFW9XW?_encoding=UTF8&psc=1)		
 M2x8 Self Tapping|4|[Amazon - M2x8 SHCS Self Tapping](https://www.amazon.com/dp/B00YBMRAH4?psc=1&ref=ppx_yo2_dt_b_product_details)		

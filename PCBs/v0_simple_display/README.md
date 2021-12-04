@@ -16,6 +16,16 @@ Momentary tactile Switch | 1 | https://www.amazon.com/QTEATAK-Momentary-Tactile-
 PCB Ordered/assembled from JLCPCB | 1 | https://jlcpcb.com/
 
 
-  
-
-
+ ## Config for SKR Mini E3 V2.0 ##
+    ################################
+    ####  Simple Screen Config  ####
+    ################################
+    [display]
+    lcd_type: sh1106
+    click_pin: ^!PA15
+    i2c_bus: i2c1a
+    i2c_mcu = mcu
+    encoder_pins: ^PC14, ^PA1
+    kill_pin: ^!PB15
+    vcomh: 60
+    x_offset: 2

@@ -4,7 +4,7 @@
 This an alternative way to do the Z endstop pin in a V2, instead of using a deflanged GT2 20T pulley, it uses 2  5x7x8 sleeve copper bearings/bushing 
 this is pretty simple to assemble. The reason behind this is to help keep the pin from falling out.
 
-
+## [ASSEMBLY MANUAL](https://instructions.online/?id=2461-sexbolt_endstop) 
 
 ##
 

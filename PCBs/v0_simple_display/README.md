@@ -29,3 +29,6 @@ PCB Ordered/assembled from JLCPCB | 1 | https://jlcpcb.com/
     kill_pin: ^!PB15
     vcomh: 60
     x_offset: 2
+    
+    #sda = pb8
+    #scl = pb9

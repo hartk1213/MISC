@@ -2,6 +2,9 @@
 # V0 Simple Screen   #
 ![PCB](Images/1.jpg)
 
+# Wiring Diagram #
+![Wiring](Images/Simple_Display_Wiring.png)
+
 
 ## The board was designed to be a cheaper alternative to the V0 Display by Timmit: ##
 this board doesnt have any MCU on it and connects directly to the printers controller board over I2c 
@@ -30,5 +33,5 @@ PCB Ordered/assembled from JLCPCB | 1 | https://jlcpcb.com/
     vcomh: 60
     x_offset: 2
     
-    #sda = pb8
-    #scl = pb9
+    #sda = pb9
+    #scl = pb8

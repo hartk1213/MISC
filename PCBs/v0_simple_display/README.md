@@ -28,7 +28,7 @@ PCB Ordered/assembled from JLCPCB | 1 | https://jlcpcb.com/
     click_pin: ^!PA15
     i2c_bus: i2c1a
     i2c_mcu = mcu
-    encoder_pins: ^PC14, ^PA1
+    encoder_pins: ^PA1, ^PC14
     kill_pin: ^!PB15
     vcomh: 60
     x_offset: 2

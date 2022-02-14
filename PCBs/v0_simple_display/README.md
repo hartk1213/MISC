@@ -3,10 +3,10 @@
 ![PCB](Images/1.jpg)
 
 # Wiring Diagram #
-This is diagam works for all revisions but rev2 can now also connect using a 10pin ribbon directly to the SKR mini e3 v2
+## This is diagam works for all revisions but rev2 can now also connect using a 10pin ribbon directly to the SKR mini e3 v2
 ![Wiring](Images/Simple_Display_Wiring.png)
 
-for Rev2 if you are using an SKR mini e3 v2 you can connect it directly to the EXP1 header on the MCU 
+## for Rev2 if you are using an SKR mini e3 v2 you can connect it directly to the EXP1 header on the MCU 
 
 
 ## The board was designed to be a cheaper alternative to the V0 Display by Timmit: ##
@@ -22,7 +22,7 @@ Momentary tactile Switch | 1 | https://www.amazon.com/QTEATAK-Momentary-Tactile-
 PCB Ordered/assembled from JLCPCB | 1 | https://jlcpcb.com/
 
 
- ## Config for SKR Mini E3 V2.0 Rev1##
+ ## Config for SKR Mini E3 V2.0 Rev1
     ################################
     ####  Simple Screen Config  ####
     ################################
@@ -46,7 +46,7 @@ PCB Ordered/assembled from JLCPCB | 1 | https://jlcpcb.com/
     #sda = pb9
     #scl = pb8
 
- ## Config for SKR Mini E3 V2.0 Rev2##
+ ## Config for SKR Mini E3 V2.0 Rev2
     ################################
     ####  Simple Screen Config  ####
     ################################

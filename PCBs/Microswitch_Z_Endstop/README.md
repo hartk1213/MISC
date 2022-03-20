@@ -1,12 +1,2 @@
 
-# Microswitch Z Endstop PCB  #
-![PCB](Images/pcb.png)
-![PCB](Images/2.png)
-
-
-## The board has: ##
- - 1 Omron D2F microswitch
- - 1 90deg 2 pin jst/ or 90deg 2 pin dupont 
-  
-This board was designed to make wiring the z endstop a bit easier. 
-
+These files have been moved to the following [Voron Hardware Repo](https://github.com/VoronDesign/Voron-Hardware/tree/master/Microswitch_Z_Endstop) to keep everything in 1 place instead of 2

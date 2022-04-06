@@ -1,6 +1,8 @@
 # Stealthburner Toolhead Board #
 This is the update to the Afterburner toolhead board for the CW2 extruder and Stealthburner 
 
+ [Purchase Here from PCBWAY](https://www.pcbway.com/project/shareproject/Stealthburner_Toolhead_PCB_b8da3a40.html)
+
     Pinout 
     24V  - HE0 +V 
     GND  - PSU -V (NOT MAINS GND)

@@ -5,3 +5,6 @@ if you wanna help support me or buy a beer you can on [patreon](https://www.patr
 
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=CT4NW5STHAYEJ)
+
+
+BTC: 3AXN2g2H9qM47EwRjAcKVZ31yz7rMHWhGx

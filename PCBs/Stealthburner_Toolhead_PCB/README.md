@@ -1,7 +1,7 @@
 # Stealthburner Toolhead Board #
 This is the update to the Afterburner toolhead board for the CW2 extruder and Stealthburner 
 
-# BOM Single board version [here](Production%20Files/StealthburnerPCB/Standard)
+# BOM standard version [here](Production%20Files/StealthburnerPCB/Standard)
     Molex Part Numbers
     436500200 (x2) 
     430450200 (x1)
@@ -13,7 +13,7 @@ This is the update to the Afterburner toolhead board for the CW2 extruder and St
     JST-PH 2pin 90deg (x2)
     BAT85 (x1)
     
-# BOM 2 board version [here](Production%20Files/StealthburnerPCB/2%20Piece)
+# BOM 2 piece version [here](Production%20Files/StealthburnerPCB/2%20Piece)
     Molex Part Numbers
     436500200 (x2) 
     430450200 (x1)

@@ -1,6 +1,32 @@
 # Stealthburner Toolhead Board #
 This is the update to the Afterburner toolhead board for the CW2 extruder and Stealthburner 
 
+# BOM standard version [here](Production%20Files/StealthburnerPCB/Standard)
+    Molex Part Numbers
+    436500200 (x2) 
+    430450200 (x1)
+    430451400 (x1) 
+
+    JST-PH 4pin (x1)
+    JST-PH 3pin (x3)
+    JST-PH 3pin 90deg (x1)
+    JST-PH 2pin 90deg (x2)
+    BAT85 (x1)
+    
+# BOM 2 piece version [here](Production%20Files/StealthburnerPCB/2%20Piece)
+    Molex Part Numbers
+    436500200 (x2) 
+    430450200 (x1)
+    430451400 (x1) 
+
+    JST-PH 4pin (x1)
+    JST-PH 3pin (x3)
+    BAT85 (x1)
+    
+    2x4 right angle female header (2.54 pitch) (x1)
+    2x4 straigh male pins (2.54 pitch) (x1)
+
+
  [Purchase Here from PCBWAY](https://www.pcbway.com/project/shareproject/Stealthburner_Toolhead_PCB_b8da3a40.html)
 
     Pinout 

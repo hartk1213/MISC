@@ -1,5 +1,5 @@
 # Modified PanzerObserver from Slidr
-[link to original](https://github.com/Slidr666/VoronUsers/tree/master/printer_mods/Slidr/PanzerObserver2.4) for more information and how to assemble 
+[link to original](https://github.com/Slidr666/VoronUsers/tree/18599db8c29c9a272f852d1dac9ad5d014d0a496/printer_mods/Slidr/PanzerObserver2.4) for more information and how to assemble 
 
 
 ##

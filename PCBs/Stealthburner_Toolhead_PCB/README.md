@@ -54,7 +54,7 @@ the aux pin can be used for a couple different things , it can be used for an X 
 
  ![Here](Images/Wiring/SB_PCB_AUX_XES.png)
 
-the aux pin can also be used as a header for a plugged in chamber thermistor , to do this you need to wire the thermistor up as shown here
+the aux pin can instead be used as a header for a plugged in chamber thermistor; to do this you must wire the chamber thermistor to the S and AG pins as shown here
 
 ![Here](Images/Wiring/SB_PCB_AUX_CT.png)
 

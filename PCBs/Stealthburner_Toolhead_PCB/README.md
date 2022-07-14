@@ -63,7 +63,7 @@ the aux pin can also be used as a header for a plugged in chamber thermistor , t
 
 The LDO Voron Kits (Switchwire, V2.4r2, Trident) all come with a version of the Afterburner Toolhead Board. 
 
-The Stealthburner board will work with the LDO wiring harness with 1 change on the breakout board. The wire that is connected to the CT header, the black wire should be removed as its no longer needed and the White wire should go to a 5v source. The easiest way is to set the last always on fan to 5v and connect it there, you can see in the diagram below the jumper (Blue) is on the 5v setting and the wire is going to the positive pin. 
+The Stealthburner board will work with the LDO wiring harness with minimum of 1 change on the breakout board. The wire that is connected to the CT header, the black wire should be removed as its no longer needed and the White wire should go to a 5v source. The easiest way is to set the last always on fan to 5v and connect it there, you can see in the diagram below the jumper (Blue) is on the 5v setting and the wire is going to the positive pin. 
 ![Here](Images/LDO/LDO_Breakout.png)
 ![Here](Images/LDO/Octopus_CT_5V.png)
 

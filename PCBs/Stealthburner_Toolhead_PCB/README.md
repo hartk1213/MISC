@@ -6,7 +6,11 @@ This is the update to the Afterburner toolhead board for the CW2 extruder and St
     436500200 (x2) 
     430450200 (x1)
     430451400 (x1) 
-
+    436450200 (x2)
+    430250200 (x1)
+    430251400 (x1)
+    
+    
     JST-PH 4pin (x1)
     JST-PH 3pin (x3)
     JST-PH 3pin 90deg (x1)
@@ -18,7 +22,10 @@ This is the update to the Afterburner toolhead board for the CW2 extruder and St
     436500200 (x2) 
     430450200 (x1)
     430451400 (x1) 
-
+    436450200 (x2)
+    430250200 (x1)
+    430251400 (x1)
+    
     JST-PH 4pin (x1)
     JST-PH 3pin (x3)
     BAT85 (x1)

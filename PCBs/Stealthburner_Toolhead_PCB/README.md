@@ -6,7 +6,11 @@ This is the update to the Afterburner toolhead board for the CW2 extruder and St
     436500200 (x2) 
     430450200 (x1)
     430451400 (x1) 
-
+    436450200 (x2)
+    430250200 (x1)
+    430251400 (x1)
+    
+    
     JST-PH 4pin (x1)
     JST-PH 3pin (x3)
     JST-PH 3pin 90deg (x1)
@@ -18,7 +22,10 @@ This is the update to the Afterburner toolhead board for the CW2 extruder and St
     436500200 (x2) 
     430450200 (x1)
     430451400 (x1) 
-
+    436450200 (x2)
+    430250200 (x1)
+    430251400 (x1)
+    
     JST-PH 4pin (x1)
     JST-PH 3pin (x3)
     BAT85 (x1)
@@ -54,7 +61,7 @@ the aux pin can be used for a couple different things , it can be used for an X 
 
  ![Here](Images/Wiring/SB_PCB_AUX_XES.png)
 
-the aux pin can also be used as a header for a plugged in chamber thermistor , to do this you need to wire the thermistor up as shown here
+the aux pin can instead be used as a header for a plugged in chamber thermistor; to do this you must wire the chamber thermistor to the S and AG pins as shown here
 
 ![Here](Images/Wiring/SB_PCB_AUX_CT.png)
 
@@ -63,7 +70,7 @@ the aux pin can also be used as a header for a plugged in chamber thermistor , t
 
 The LDO Voron Kits (Switchwire, V2.4r2, Trident) all come with a version of the Afterburner Toolhead Board. 
 
-The Stealthburner board will work with the LDO wiring harness with 1 change on the breakout board. The wire that is connected to the CT header, the black wire should be removed as its no longer needed and the White wire should go to a 5v source. The easiest way is to set the last always on fan to 5v and connect it there, you can see in the diagram below the jumper (Blue) is on the 5v setting and the wire is going to the positive pin. 
+The Stealthburner board will work with the LDO wiring harness with minimum of 1 change on the breakout board. The wire that is connected to the CT header, the black wire should be removed as its no longer needed and the White wire should go to a 5v source. The easiest way is to set the last always on fan to 5v and connect it there, you can see in the diagram below the jumper (Blue) is on the 5v setting and the wire is going to the positive pin. 
 ![Here](Images/LDO/LDO_Breakout.png)
 ![Here](Images/LDO/Octopus_CT_5V.png)
 

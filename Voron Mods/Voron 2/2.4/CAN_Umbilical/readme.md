@@ -1,4 +1,4 @@
-![A Drive](Images/umbilical_A_Drive.png)
+![A Drive](Images/A_Drive_4pin_Connector_Umbilical.png)
 
 A drive Mount (replaces cable cover on a drive)
 

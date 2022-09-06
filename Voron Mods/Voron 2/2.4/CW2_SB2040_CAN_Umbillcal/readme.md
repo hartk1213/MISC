@@ -1,5 +1,7 @@
 ![A Drive](Images/A_Drive_4pin_Connector_Umbilical.png)
 
+![CW2](Images/CW2_Umbilical.png)
+
 ![A Drive With standard cable gland](Images/cable_gland_option.png)
 
 ![Complete V2 with umbilical](Images/V2_With_Umbilical.jpg)

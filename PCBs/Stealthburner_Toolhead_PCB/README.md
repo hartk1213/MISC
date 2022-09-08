@@ -33,10 +33,10 @@ This is the update to the Afterburner toolhead board for the CW2 extruder and St
     2x4 right angle female header (2.54 pitch) (x1)
     2x4 straigh male pins (2.54 pitch) (x1)
 
-
- [Purchase Here from PCBWAY](https://www.pcbway.com/project/shareproject/Stealthburner_Toolhead_PCB_b8da3a40.html)
-
-    Pinout 
+	
+## Pinout
+![Here](Images/Wiring/14_2_pinout.png)	
+	
     24V  - HE0 +V 
     GND  - PSU -V (NOT MAINS GND)
     PROBE  - Probe/Klicky Signal Pin
@@ -54,12 +54,13 @@ This is the update to the Afterburner toolhead board for the CW2 extruder and St
     LED  - Neopixel Data Pin
     FS  - ERCF Filament sensor 
     
-    
+    Assmebly Video from Maple Leaf Makers
+	https://www.youtube.com/watch?v=PCIwZRPYMZ8
     
 ## Options for Aux Pin ##
 the aux pin can be used for a couple different things , it can be used for an X endstop on the toolhead if you are going with the umbililcal , to do this you need to wire up the x endstop as shown here 
 
- ![Here](Images/Wiring/SB_PCB_AUX_XES.png)
+![Here](Images/Wiring/SB_PCB_AUX_XES.png)
 
 the aux pin can instead be used as a header for a plugged in chamber thermistor; to do this you must wire the chamber thermistor to the S and AG pins as shown here
 

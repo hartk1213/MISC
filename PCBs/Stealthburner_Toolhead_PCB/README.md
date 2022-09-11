@@ -1,58 +1,57 @@
 # Stealthburner Toolhead Board #
 This is the update to the Afterburner toolhead board for the CW2 extruder and Stealthburner 
-
 # BOM standard version [here](Production%20Files/StealthburnerPCB/Standard)
-    Molex Part Numbers
-    436500200 (x2) 
-    430450200 (x1)
-    430451400 (x1) 
-    436450200 (x2)
-    430250200 (x1)
-    430251400 (x1)
+| Item | Qty |
+| :------------: |----:| 
+| Molex 436500200 | 2 |
+| Molex 430450200 | 1 |
+| Molex 430451400 | 1 |
+| Molex 436450200 | 2 |
+| Molex 430250200 | 1 |
+| Molex 430251400 | 1 |
+| JST-PH 4pin | 1 |
+| JST-PH 3pin | 3 |
+| JST-PH 3pin 90deg | 1 |
+| JST-PH 2pin 90deg | 2 |
+| BAT85 | 1 |
     
-    
-    JST-PH 4pin (x1)
-    JST-PH 3pin (x3)
-    JST-PH 3pin 90deg (x1)
-    JST-PH 2pin 90deg (x2)
-    BAT85 (x1)
-    
+        
 # BOM 2 piece version [here](Production%20Files/StealthburnerPCB/2%20Piece)
-    Molex Part Numbers
-    436500200 (x2) 
-    430450200 (x1)
-    430451400 (x1) 
-    436450200 (x2)
-    430250200 (x1)
-    430251400 (x1)
-    
-    JST-PH 4pin (x1)
-    JST-PH 3pin (x3)
-    BAT85 (x1)
-    
-    2x4 right angle female header (2.54 pitch) (x1)
-    2x4 straigh male pins (2.54 pitch) (x1)
+| Item | Qty |
+| :------------: |----:| 
+| Molex 436500200 | 2 |
+| Molex 430450200 | 1 |
+| Molex 430451400 | 1 |
+| Molex 436450200 | 2 |
+| Molex 430250200 | 1 |
+| Molex 430251400 | 1 |
+| JST-PH 4pin | 1 |
+| JST-PH 3pin | 3 |
+| 2x4 right angle female header (2.54 pitch) | 1 |
+| 2x4 straigh male pins (2.54 pitch) | 1 |
+| BAT85 | 1 |
 
-	
+ 	
 ## Pinout
 ![Here](Images/Wiring/14_2_pinout.png)	
-	
-    24V  - HE0 +V 
-    GND  - PSU -V (NOT MAINS GND)
-    PROBE  - Probe/Klicky Signal Pin
-    HE0  - Hotend Heater -V
-    5V   - 5V 
-    PCF  - Part Cooling Fan -V
-    HEF  - Hotend Cooling Fan -V
-    AGND - Hotend Thermistor -V
-    TH0  - Hotend Thermistor Signal Pin (TH0)
-    AUX  - Auxillary 
-    S1A  - Red Stepper Wire
-    S2A  - Green Stepper Wire
-    S1B  - Blue Stepper Wire
-    S2B  - Black Stepper Wire 
-    LED  - Neopixel Data Pin
-    FS  - ERCF Filament sensor 
+| PCB | MCU | Wire AWG |
+|:-:|:-:|:-:|
+|24V  | HE0 +V | 20   |
+|GND  | PSU -V (NOT MAINS GND) | 24   |
+|PROBE| Probe/Klicky Signal Pin | 24   |
+|HE0  | Hotend Heater -V | 20 |
+|5V   | 5V | 24   |
+|PCF  | Part Cooling Fan -V | 24  |
+|HEF  | Hotend Cooling Fan -V |  24|
+|AGND | Hotend Thermistor -V |24   |
+|TH0  | Hotend Thermistor Signal Pin (TH0) | 24   |
+|AUX  | Auxillary |  24  |
+|S1A  | Red Stepper Wire |24 |
+|S2A  | Green Stepper Wire |24  |
+|S1B  | Blue Stepper Wire |24  |
+|S2B  | Black Stepper Wire |24  |
+|LED  | Neopixel Data Pin |24  |
+|FS   | ERCF Filament sensor |24  |
     
     Assmebly Video from Maple Leaf Makers
 	https://www.youtube.com/watch?v=PCIwZRPYMZ8
@@ -93,7 +92,17 @@ the 4 pin wire that is going into the breakout board that come from the XY endst
 
 
 
-
-
-
-
+[StandardBOM]: /Stealthburner_Toolhead_PCB/Production%20Files/Standard
+[2PieceBOM]: /Stealthburner_Toolhead_PCB/Production%20Files/2%20Piece
+[Pinout]: /Stealthburner_Toolhead_PCB/Images/Wiring/14_2_pinout.png "14 + 2 Pinout"
+[MLMGit]: https://github.com/MapleLeafMakers
+[MLMThumbNail]: https://img.youtube.com/vi/PCIwZRPYMZ8/0.jpg 
+[MLMAssemVideo]: https://www.youtube.com/watch?v=PCIwZRPYMZ8 "Stealthburner PCB Assembly Video"
+[AuxPin1]: /Stealthburner_Toolhead_PCB/Images/Wiring/SB_PCB_AUX_XES.png "Aux XES"
+[AuxPin2]: /Stealthburner_Toolhead_PCB/Images/Wiring/SB_PCB_AUX_CT.png "Aux CT"
+[ABPCB]: https://github.com/VoronDesign/Voron-Hardware/tree/master/Afterburner_Toolhead_PCB "Afterburner Toolhead PCB"
+[LDOBO]: /Stealthburner_Toolhead_PCB/Images/LDO/LDO_Breakout.png "LDO Breakout"
+[OCT5V]: /Stealthburner_Toolhead_PCB/Images/LDO/Octopus_CT_5V.png "CT to 5V swap"
+[LDOSTEP]: /Stealthburner_Toolhead_PCB/Images/LDO/LDO_Stepper_CW2.png "LDO Stepper wiring"
+[LEDERCF]: /Stealthburner_Toolhead_PCB/Images/LDO/Octopus_LED_ERCF.png "ERCF Wiring"
+[XES]: /Stealthburner_Toolhead_PCB/Images/LDO/Octopus_XES.png "XES wiring"

@@ -33,7 +33,7 @@ This is the update to the Afterburner toolhead board for the CW2 extruder and St
 
  	
 ## Pinout
-### NOTE THIS IMAGE IS FROM THE PERSPECTIVE OF LOOKING AT THE END OF THE WIRING HARNESS NOT THE PCB ##
+### NOTE: THIS IMAGE IS FROM THE PERSPECTIVE OF LOOKING AT THE END OF THE WIRING HARNESS NOT THE PCB ##
 ![Here](Images/Wiring/14_2_pinout.png)	
 | PCB | MCU | Wire AWG |
 |:-:|:-:|:-:|

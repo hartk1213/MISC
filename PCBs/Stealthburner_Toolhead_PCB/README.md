@@ -33,6 +33,7 @@ This is the update to the Afterburner toolhead board for the CW2 extruder and St
 
  	
 ## Pinout
+### NOTE: THIS IMAGE IS FROM THE PERSPECTIVE OF LOOKING AT THE END OF THE WIRING HARNESS NOT THE PCB ##
 ![Here](Images/Wiring/14_2_pinout.png)	
 | PCB | MCU | Wire AWG |
 |:-:|:-:|:-:|
@@ -52,9 +53,10 @@ This is the update to the Afterburner toolhead board for the CW2 extruder and St
 |S2B  | Black Stepper Wire |24  |
 |LED  | Neopixel Data Pin |24  |
 |FS   | ERCF Filament sensor |24  |
-    
-    Assmebly Video from Maple Leaf Makers
-	https://www.youtube.com/watch?v=PCIwZRPYMZ8
+   
+   ## Assmebly Video from Maple Leaf Makers
+[![Assmebly Video from Maple Leaf Makers](Images/Video/thumbnail.jpeg)](https://www.youtube.com/watch?v=PCIwZRPYMZ8 "Assmebly Video from Maple Leaf Makers")
+
     
 ## Options for Aux Pin ##
 the aux pin can be used for a couple different things , it can be used for an X endstop on the toolhead if you are going with the umbililcal , to do this you need to wire up the x endstop as shown here 

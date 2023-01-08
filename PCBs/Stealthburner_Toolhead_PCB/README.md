@@ -94,7 +94,7 @@ The 4 pin wire that is going into the breakout board that comes from the XY ends
 
 Example:
 
-You wire the toolhead [AUX header(#options-for-aux-pin) up as a chamber thermistor.  Take the X endstop wire and bypass the breakout board as described above. Connect it directly to the Octopus as the new X endstop (J27, PG6). You can now use the XES header on the breakout board to connect to the Octopus as a chamber thermistor (J46, PF5).
+Wire the toolhead [AUX header](#options-for-aux-pin) as a chamber thermistor. Take the X endstop wire and bypass the breakout board as described above and connect it directly to the Octopus as the new X endstop (J27, PG6). You can now use the XES header on the breakout board to connect to the Octopus as a chamber thermistor (J46, PF5).
 ![Here](Images/LDO/aux_port_example.png)
 
 

@@ -88,7 +88,7 @@ to get the LEDs and ERCF filament sensor header functional, you will need to run
 ![Here](Images/LDO/Octopus_LED_ERCF.png)
 
 #### For LDO V2 and LDO Trident only (OPTIONAL)
-If you are using the LDO XY endstop on the xy joint and you want to use the AUX header on the toolhead board as an optional port for 3rd fan pin, toolhead mounted chamber thermistor via the XES breakout header, then there is 1 thing that will need to be done 
+If you are using the stock XY endstops on the xy joint and you want to use the AUX header on the toolhead board as an optional port for 3rd fan pin, toolhead mounted chamber thermistor via the XES breakout header, then there is 1 thing that will need to be done 
 ![Here](Images/LDO/Octopus_XES.png)
 The 4 pin wire that is going into the breakout board that comes from the XY endstop PCB needs to have its X wire (Blue in the diagram) removed and connected directly to the octopus as the new x endstop. This is because the breakout board shares the signal of the X endstop on the toolhead and the gantry, so by moving the X endstop wire from the breakout board and connecting it directly to the octopus you can now use the toolhead AUX header as an optional connection. Once you have done that refer to the [diagrams above](#options-for-aux-pin) on how to use it.
 

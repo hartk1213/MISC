@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Brightness
+Name[zh_CN]=Brightness
+Comment=britness Client
+Exec=/usr/share/applications/WS_xinchDSI_Backlight_armhf
+Icon=/usr/share/applications/WS_xinchDSI_Backlight_armhf.png
+Terminal=false
+Type=Application
+Categories=Utility;
+Encoding=UTF-8
+StartupNotify=true

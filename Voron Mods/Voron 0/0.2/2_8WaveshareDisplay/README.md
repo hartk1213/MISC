@@ -9,7 +9,7 @@
 [DSI Cable](https://www.amazon.com/A1-FFCs-Black-Raspberry-Camera/dp/B07J57LQQS/ref=sr_1_3?)
 
 
-![1](images/2.png) 
+![1](Images/2.png) 
 
 
 

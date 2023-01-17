@@ -1,5 +1,5 @@
 # Voron 0.2 Waveshare 2.8 DSI Display 
-
+![render](Images/WaveshareSkirtMount.png) 
 
 ##
 
@@ -8,8 +8,12 @@
 
 [DSI Cable](https://www.amazon.com/A1-FFCs-Black-Raspberry-Camera/dp/B07J57LQQS/ref=sr_1_3?)
 
+This display mount attaches using stock hardware on the V0.2 as well as the hardware that is included with the display
 
-![1](Images/2.png) 
+
+![2](Images/2.png) 
+
+
 
 
 

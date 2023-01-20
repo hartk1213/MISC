@@ -8,7 +8,7 @@ both the standard and 2pc boards have been updated
 * stepper wiring has now been fixed
 * updated the schematics to match the current boards as well 
 
-This is the update to the Afterburner toolhead board for the CW2 extruder and Stealthburner 
+
 # BOM standard version [here](Production%20Files/StealthburnerPCB/Standard)
 | Item | Qty |
 | :------------: |----:| 

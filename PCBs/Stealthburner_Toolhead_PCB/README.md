@@ -1,5 +1,9 @@
 # Stealthburner Toolhead Board #
 
+
+## If you are using TAP 
+ Make sure to read the silkscreen on the board you have, If you need a 5v header only the newer (rev4.0) boards will have a 5v option. 
+ 
 ## Update Revision 4
 
 both the standard and 2pc boards have been updated

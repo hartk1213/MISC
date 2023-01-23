@@ -1,8 +1,10 @@
 V0.2 Skirt Buttons 
 ============
-![1](Images/1.jpg) 
 
-I modified the skirt buttons from Tircown for the V0.1 skirts to fit the V0.2 skirts. I also made changes to use the standard D2F switches instead of the 6mm buttons
+<img src="https://raw.githubusercontent.com/hartk1213/MISC/main/Voron%20Mods/Voron%200/0.2/Skirt_Buttons/Images/1.jpg" width="400" height="auto">
+
+
+I modified the skirt buttons from [Tircown](https://github.com/Tircown) in the Voron Usermods repo [here](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Tircown/V01_skirt_buttons) for the V0.1 skirts to fit the V0.2 skirts. I also made changes to use the standard D2F switches instead of the 6mm buttons
 
 these are print in place buttons, once the print has completed press the button and make sure the pieces can move freely. 
 

@@ -7,7 +7,7 @@
 ### BOM
 Item | QTY | Link
 --- | --- | ---
-Camera | 1 | [Aliexpress](https://www.aliexpress.com/item/1005002865263315.html)
+Camera | 1 | [Aliexpress](https://a.aliexpress.com/_mO2BlnU)
 M3 Heatsets | 2 | 
 M3x8 | 2 | Camera Mount
 M3x6 | 2  | Mount to Frame

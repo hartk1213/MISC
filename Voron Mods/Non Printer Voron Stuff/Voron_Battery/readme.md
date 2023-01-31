@@ -4,12 +4,12 @@
 ##
 
 ### BOM
-Item | Link
---- | ---
-Spring Battery Contacts | https://www.amazon.com/dp/B07HRTMY5T
-18650 Lithium Battery Cell | https://www.18650batterystore.com/collections/18650-batteries/products/epoch-25p-18650
-USB C charging PCB | https://www.amazon.com/dp/B09GHT9MC2?psc=1&ref=ppx_yo2_dt_b_product_details
-wire | I used 24awg silicone wire 
+Item | Link | Aff-Link
+--- | --- | ---
+Spring Battery Contacts | [amazon](https://www.amazon.com/dp/B07HRTMY5T) | [aliexpress-affiliate](https://s.click.aliexpress.com/e/_DEjOaEn)
+18650 Lithium Battery Cell | [18650Store](https://www.18650batterystore.com/collections/18650-batteries/products/epoch-25p-18650) | [aliexpress-affiliate](https://s.click.aliexpress.com/e/_Dm3P5Fl)
+USB C charging PCB | [amazon](https://www.amazon.com/dp/B09GHT9MC2?) | [aliexpress-affiliate](https://s.click.aliexpress.com/e/_Ddwyqyb)
+wire | [amazon](https://www.amazon.com/Fermerry-Silicone-Flexible-Electric-Stranded/dp/B089D13Y1N/ref=sr_1_5?) | [aliexpress-affiliate](https://s.click.aliexpress.com/e/_DCaX8dH)
 
 
 ![1](Images/1.png) 

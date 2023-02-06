@@ -8,6 +8,8 @@
 
 [DSI Cable](https://www.amazon.com/A1-FFCs-Black-Raspberry-Camera/dp/B07J57LQQS/ref=sr_1_3?)
 
+4x M2.5x6 BHCS screws to mount the display 
+
 This display mount attaches using stock hardware on the V0.2 as well as the hardware that is included with the display
 
  ---

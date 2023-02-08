@@ -55,7 +55,7 @@ both the standard and 2pc boards have been updated
 |24V  | HE0 +V | 20   |
 |GND  | PSU -V (NOT MAINS GND) | 24   |
 |PROBE| Probe/Klicky Signal Pin | 24   |
-|HE0  | Hotend Heater -V | 20 |
+|HE0  | HE0 -V | 20 |
 |5V   | 5V | 24   |
 |PCF  | Part Cooling Fan -V | 24  |
 |HEF  | Hotend Cooling Fan -V |  24|

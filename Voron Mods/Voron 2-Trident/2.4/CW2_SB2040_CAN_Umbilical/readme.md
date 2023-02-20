@@ -6,6 +6,7 @@
 
 ![Complete V2 with umbilical](Images/V2_With_Umbilical.jpg)
 
+
 A drive Mount (replaces cable cover on a drive)
 
 The 4 pin connector i used is from CNLinko on Ali [Affiliate Link](https://s.click.aliexpress.com/e/_DE6gdEb)
@@ -13,4 +14,14 @@ The 4 pin connector i used is from CNLinko on Ali [Affiliate Link](https://s.cli
 PG7 Cable gland on Ali [Affiliate Link](https://s.click.aliexpress.com/e/_Dl4LAY1)
 
 i used a motion rated 4x20awg conductor cable, but 4x22awg should work just fine for this [Affiliate Link](https://s.click.aliexpress.com/e/_DFOc6LR)
+
+
+List of Stealthburner style CAN boards supported for this mod 
+
+BTT EBB2209/2240 [Affiliate Link](https://s.click.aliexpress.com/e/_DmZ99vP)
+
+Mellow SB2040 [Affiliate Link](https://s.click.aliexpress.com/e/_DCA4kRr)
+
+Fysetc SB CAN [Affiliate Link](https://s.click.aliexpress.com/e/_DBWxt73)
+
 

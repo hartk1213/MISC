@@ -73,3 +73,27 @@ WS2812B LED | 1 | https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worl
     
     #sda = pb9
     #scl = pb8
+    
+ ## Config for SKR Mini E3 V3.0 Rev2
+    ################################
+    ####  Simple Screen Config  ####
+    ################################
+    [display]
+    lcd_type: sh1106
+    click_pin: ^!PA15
+    i2c_bus: i2c1_PB8_PB9
+    i2c_mcu = mcu
+    encoder_pins: ^PA10, ^PA9
+    kill_pin: ^!PD6
+    vcomh: 60
+    x_offset: 2
+
+    [neopixel display_led]
+    pin: PB5
+    color_order: GRB
+    initial_RED: 0.5
+    initial_GREEN: 0.5
+    initial_BLUE: 0.5
+
+    #sda = pb9
+    #scl = pb8

@@ -28,13 +28,20 @@ take the 4 wire umbilical you have from your CAN setup and remove the CAN-H and 
 ### Step2: 
 solder the other end Or use the JST header if you went that route with the umbilical wiring to the breakout close to your PI 
 and connect the USB-C cable 
+
 <img src="https://github.com/hartk1213/MISC/assets/12398294/405c8f29-666c-4dec-a2f8-e0ce151cee16" alt="Image Description" width="400">
 
 ### Step3: 
 flash the board with klipper to use USB just like any other controller you flash with klipper, Once you have it flashed and ready to go you need to setup the CFG. if you had CAN setup previously then all you have to do is change the mcu cfg from 
+
 ```canbus_uuid: xxxxxxxxxx``` 
+
 to the standard 
+
 ```serial: /dev/serial/by-id/usb-Klipper_xxxxxxx```
+
 you can find this by running the command
+
 ```ls /dev/serial/by-id```
-thats it, the cfg should be identical to what you had setup with CAN 
+
+thats it, the cfg should be identical to what you had setup with CAN, and now you should be running your toolhead via USB , welcome to the future 🤣

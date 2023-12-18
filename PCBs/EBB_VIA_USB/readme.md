@@ -45,3 +45,7 @@ you can find this by running the command
 ```ls /dev/serial/by-id```
 
 thats it, the cfg should be identical to what you had setup with CAN, and now you should be running your toolhead via USB , welcome to the future 🤣
+
+
+##  I should note here that while this "use an EBB36 as USB" does technically work, there is a fairly high chance of popping stuff if unplugging the connectors "live" and maybe even if a wire breaks during a print. We think it's to do with transient voltage spikes on the data wires not having a path to ground if the ground wire is disconnected before the data wires. This is partly due to the Molex MF3 connector just not having provisions to connect ground before data (like a normal USB does, or even the XT30 2+2 does of other toolheads).
+This isn't just theoretical either. I've destroyed an EBB36 and the USB chip on a pi4 doing this (killing all the USB-A port on the pi), as have a couple of others who have been tinkering with it. So if you wanted to do it just keep this stuff in mind

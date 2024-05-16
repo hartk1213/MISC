@@ -1,4 +1,4 @@
-# Waveshare 2.8 Automatic Installation 
+# Waveshare 2.8 Automatic Installation W/ Klipperscreen 
 
 This install.sh will install the drivers as well as prompt you to install klipperscreen and then prompt you to reboot your pi
 ```
@@ -7,7 +7,7 @@ git clone --branch waveshare2.8 https://github.com/hartk1213/MISC.git
 ./install.sh 
 ```
 
-# Waveshare 2.8 Installation with Klipperscreen 
+# Waveshare 2.8 Manual Installation 
 
 ## Step 1
 Clone Waveshare-DSI-LCD driver repo

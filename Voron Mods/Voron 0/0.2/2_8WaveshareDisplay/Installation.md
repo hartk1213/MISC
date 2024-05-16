@@ -4,6 +4,7 @@ This install.sh will install the drivers as well as prompt you to install klippe
 ```
 cd ~
 git clone --branch waveshare2.8 https://github.com/hartk1213/MISC.git
+
 ./install.sh 
 ```
 

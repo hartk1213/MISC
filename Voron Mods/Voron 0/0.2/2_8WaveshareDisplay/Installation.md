@@ -3,8 +3,8 @@
 This install.sh will install the drivers as well as prompt you to install klipperscreen and then prompt you to reboot your pi
 ```
 cd ~
-wget -qO- https://raw.githubusercontent.com/hartk1213/Waveshare2.8_Installation/main/install.sh | bash
- 
+git clone https://github.com/hartk1213/Waveshare2.8_Installation
+./Waveshare2.8_Installation/install.sh
 ```
 
 # Waveshare 2.8 Manual Installation 

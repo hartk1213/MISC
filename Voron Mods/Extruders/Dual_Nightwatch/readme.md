@@ -5,8 +5,6 @@ this is a compact dual bowden extruder based on the Voron Nightwatch bowden extr
 
 
 ## BOM
-
-### Fasteners
 Item | Qty | Notes
 --- | --- | ---
 M2x10 Self-Tapping | 8

@@ -19,5 +19,6 @@ Nema14 Pancake | 2 | should work with 7T up to 10T pinions
 BMG Gear set | 2 | Rigda might work, hasnt been tested 
 BMG Thumbscrews | 2 |
 PC4-M6 collet | 4 |
-D2F style switch | 4 |
+D2F style switch | 4 | optional, only if you want the filament sensors 
+5.5mm ball bearing | 4 | optional, only if you want the filament sensors 
 

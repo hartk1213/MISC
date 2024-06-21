@@ -5,6 +5,8 @@ thanks to Esoterical for the of adding the filament sensors
 
 ![render 247](https://github.com/hartk1213/MISC/assets/12398294/33acddf1-a63d-4b17-86d9-efe2ee43f75c)
 
+thanks to [christophmuellerorg](https://github.com/christophmuellerorg)
+for the initial version of the bowden Y splitter 
 
 ## BOM
 Item | Qty | Notes

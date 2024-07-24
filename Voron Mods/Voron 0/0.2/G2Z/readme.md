@@ -20,3 +20,15 @@ The following hardware is in addition to the hardware that is supplied in the G2
 |M3x12|2|
 |M3x20|2|
 |M3x40|2|
+
+
+## CFG Changes
+```
+[stepper_z]
+rotation_distance: 40
+gear_ratio: 9:1                                           
+microsteps: 32
+
+[tmc2209 stepper_z]
+run_current: 0.6
+```

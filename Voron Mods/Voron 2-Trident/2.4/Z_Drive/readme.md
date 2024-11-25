@@ -5,4 +5,6 @@ uses all same motion hardware as stock v2.4 z drives
 
 havent gotten fastener bom together yet but its all standard voron hardware 
 
+
+stock skirts wont fit, but those are already being worked on and are coming soon
 ![1](./image-12.png)

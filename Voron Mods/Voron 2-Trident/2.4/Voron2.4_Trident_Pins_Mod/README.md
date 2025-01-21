@@ -30,7 +30,7 @@ either one of these based on if you are using 6mm or 9mm belt
 
 here is what the XY Joint will look like
 
-![XY Joint](Images/1.png)
+![XY Joint](Images/1.jpg)
 ![XY Joint](Images/2.jpg)
 
 

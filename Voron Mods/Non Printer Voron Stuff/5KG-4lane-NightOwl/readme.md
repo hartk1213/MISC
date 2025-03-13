@@ -3,9 +3,9 @@
 this mod of the [NightOwl](https://github.com/mjonuschat/NightOwl) allows you to run 1 of the 3 configurations 
 
 * 1x 5kg spool and 2x 1kg spools (this is how i currently use mine)
-    ![1](./5KG-4lane-NightOwl/Images/1.png)
+    ![1](./Images/1.png)
 * 4x 1kg spools (similar to boxturtle, bambu AMS, etc..)
-    ![2](./5KG-4lane-NightOwl/Images/2.png)
+    ![2](./Images/2.png)
 * 2x 5kg spools (not pictured)
 
 

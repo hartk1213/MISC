@@ -1,5 +1,5 @@
 new Z drives modeled after Micron R1 Z drives 
-picture is an older version, knly difference is the recessed hexagon size 
+picture is an older version, only difference is the recessed hexagon size 
 
 uses all same motion hardware as stock v2.4 z drives 
 
